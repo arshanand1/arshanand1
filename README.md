@@ -1,6 +1,6 @@
 ### Hi there 👋
 🔭 I’m currently working on Learning DSA in C++ <br></br>
-🌱 I’m currently learning web dev i.e Javascript <br></br>
+🌱 I’m currently learning Web Dev i.e MERN Stack <br></br>
 [![@arshanand's Holopin board](https://holopin.me/arshanand)](https://holopin.io/@arshanand)
 
 <!--
